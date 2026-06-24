@@ -1,0 +1,27 @@
+Day 1 Data Quality Summary
+
+Dataset: nav_data.csv
+
+Shape:
+1 row, 3 columns
+
+Columns:
+1. Fund_Name
+2. NAV
+3. Date
+
+Data Types:
+Fund_Name - string
+NAV - float64
+Date - string
+
+Missing Values:
+Fund_Name - 0
+NAV - 0
+Date - 0
+
+Observations:
+- Dataset loaded successfully.
+- No missing values found.
+- NAV data fetched successfully from MFAPI.
+- Data ingestion pipeline working correctly.
