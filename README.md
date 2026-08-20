@@ -35,13 +35,6 @@ MutualFundAnalytics/
 - Git
 - GitHub
 
-## Day 1 Progress
-
-- Data ingestion pipeline created
-- NAV data fetched successfully
-- Data quality report generated
-- Project uploaded to GitHub
-
 ## Author
 
 Sajid Hameed Wani  
